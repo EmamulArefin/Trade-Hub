@@ -1,3 +1,2 @@
-
-*.csharp linguist-detectable=true
-*.html linguist-detectable=false
+$ cat .gitattributes
+*.rb linguist-language=csharp
